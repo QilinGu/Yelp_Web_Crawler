@@ -1,4 +1,4 @@
-Yelp Web Crawler
+#Yelp Web Crawler
 
 Crawl restaurant information on Yelp, you can specify city, state, start year, end year.
 
